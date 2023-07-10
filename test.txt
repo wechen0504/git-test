@@ -2,5 +2,5 @@ dimmining 4444
 dimmining
 dimmining
 graph mining
-hardware
+hardware master-test
 123456
